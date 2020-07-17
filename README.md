@@ -1,5 +1,5 @@
 ### Hi there 👋
-## :screen: I'm a Full-stack Javascript/Typescript developer
+## :monitor: I'm a Full-stack Javascript/Typescript developer
 <!--
 **darklight147/darklight147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
