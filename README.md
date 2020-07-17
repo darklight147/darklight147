@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+:tv: I'm a Full-stack Javascript/Typescript developer
 <!--
 **darklight147/darklight147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-:tv: I'm a Full-stack Javascript/Typescript developer
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
