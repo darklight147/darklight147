@@ -16,7 +16,9 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-[![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=darklight147&show_icons=true)](https://github.com/darklight147/github-readme-stats)
+## Stats
+
+[![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=darklight147&show_icons=true&hide=issues)](https://github.com/darklight147/github-readme-stats)
 
 [combinedprogrammer]: https://www.youtube.com/channel/UCxOOgcdkUTmk0dP8K4qfd_Q?view_as=subscriber
 [linkedin]: https://www.linkedin.com/in/mohamed-belkamel-a65364183
