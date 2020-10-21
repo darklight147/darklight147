@@ -1,16 +1,18 @@
-### Hi there 👋
-## :computer: I'm a Full-stack Javascript/Typescript developer
-<!--
-**darklight147/darklight147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I'm Mohamed - aka [combinedProgrammer][combinedprogrammer]
 
-Here are some ideas to get you started:
+## 💻 I'm a Learner, Full-stack Javascript/Typescript Developer, Tutor, Blog Writer, Devops Enthusiast!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🖥️ I'm currently working on personal projects!
+- 📖 I'm currently learning about everything (Especially Devops engineering!)
+- ⌨️ MERN (Javascript & Typescript) developer
+- 💬 Ask me about anything related to Javascript/Typescript, Node.js (Express / Scripting), React, Hosting, MongoDB, NGINX, Docker (Devops in General).
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Latest Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+[![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=darklight147&show_icons=true)](https://github.com/darklight147/github-readme-stats)
+
+[combinedprogrammer]: https://www.youtube.com/channel/UCxOOgcdkUTmk0dP8K4qfd_Q?view_as=subscriber
