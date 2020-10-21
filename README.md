@@ -14,13 +14,14 @@
 ### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Loadbalancing Docker containers with Nginx](https://medium.com/@belkamelmohamed/loadbalancing-docker-containers-with-nginx-465a66a6acd2?source=rss-dae79ee7f704------2)
 - [Nginx docker container serving a front end react app](https://medium.com/@belkamelmohamed/nginx-docker-container-serving-a-front-end-react-app-8d8f81d44587?source=rss-dae79ee7f704------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
 
-[![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=darklight147&show_icons=true&hide=issues)](https://github.com/darklight147/github-readme-stats)
+[![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=darklight147&show_icons=true&hide=issues&include_all_commits=true)](https://github.com/darklight147/github-readme-stats)
 
 [combinedprogrammer]: https://www.youtube.com/channel/UCxOOgcdkUTmk0dP8K4qfd_Q?view_as=subscriber
 [linkedin]: https://www.linkedin.com/in/mohamed-belkamel-a65364183
