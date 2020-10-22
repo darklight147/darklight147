@@ -14,7 +14,6 @@
 ### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Loadbalancing Docker containers with Nginx](https://medium.com/@belkamelmohamed/loadbalancing-docker-containers-with-nginx-465a66a6acd2?source=rss-dae79ee7f704------2)
 - [Nginx docker container serving a front end react app](https://medium.com/@belkamelmohamed/nginx-docker-container-serving-a-front-end-react-app-8d8f81d44587?source=rss-dae79ee7f704------2)
 <!-- BLOG-POST-LIST:END -->
