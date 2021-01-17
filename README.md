@@ -25,6 +25,7 @@
 - Typescript
 - Docker
 - Kubernetes
+- Nginx
 - Next.js
 - JWT
 - C++
@@ -37,6 +38,7 @@
 - Programming best practices
 - Design thinking
 - Open-source
+- Write better code and better architectures
 
 ### Latest Blog posts
 
