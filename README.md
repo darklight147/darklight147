@@ -33,6 +33,7 @@
 - JWT
 - C++
 - Discord.js
+- Web Sockets
 
 ---
 
@@ -42,6 +43,11 @@
 - Design thinking
 - Open-source
 - Write better code and better architectures
+
+## Things I wanna learn in 2021
+
+- Stripe Payements
+- Hapi.js
 
 ### Latest Blog posts
 
