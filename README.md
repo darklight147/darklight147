@@ -19,6 +19,9 @@
 - Serverless Architecture
 - CI/CD (gitlab/github actions/ travis CI)
 - AWS / GCP
+- Vercel
+- Cloudflare
+- CronJobs
 
 ---
 
