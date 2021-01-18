@@ -22,7 +22,7 @@
 - Vercel
 - Cloudflare
 - CronJobs
-
+- Caching with redis
 ---
 
 - Typescript
