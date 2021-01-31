@@ -11,7 +11,7 @@
 
 - [<img alt='darklight147 | LinkedIn' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/linkedin.svg' />][linkedin]
 
-## 🏫 What i learned in 2020
+## 🏫 What i learned in 2019-2020
 
 - Microservices
 - Load Balancing
