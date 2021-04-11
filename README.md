@@ -10,6 +10,7 @@
 ## 📫 How to reach me: ...
 
 - [<img alt='darklight147 | LinkedIn' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/linkedin.svg' />][linkedin]
+- [<img alt='darklight147 | Discord' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/discord.svg' />][discord]
 
 ## 🏫 What i learned in 2019-2020
 
@@ -62,3 +63,4 @@
 
 [combinedprogrammer]: https://www.youtube.com/channel/UCxOOgcdkUTmk0dP8K4qfd_Q?view_as=subscriber
 [linkedin]: https://www.linkedin.com/in/mohamed-belkamel-a65364183
+[discord]: https://discordapp.com/users/563804458526441639/
