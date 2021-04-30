@@ -49,6 +49,9 @@
 
 - Stripe Payements
 - Hapi.js
+- .NET CORE & C#
+- Laravel
+- Complex Database Paradims
 
 ### Latest Blog posts
 
