@@ -62,7 +62,14 @@
 
 ## Stats
 
-[![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=darklight147&show_icons=true&hide=issues&include_all_commits=true)](https://github.com/darklight147/github-readme-stats)
+[![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=darklight147&show_icons=true&hide=issues&include_all_commits=true&bg_color=151515&text_color=eeeeee&title_color=feeeee&icon_color=60C476)](https://github.com/darklight147/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darklight147&layout=compact&hide=css&theme=dark)](https://github.com/darlight147/darklight147)
+
+## Music Bot
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Game-Linter&repo=Discord-Music-Master&theme=dark)](https://github.com/Game-Linter/Discord-Music-Master)
 
 [combinedprogrammer]: https://www.youtube.com/channel/UCxOOgcdkUTmk0dP8K4qfd_Q?view_as=subscriber
 [linkedin]: https://www.linkedin.com/in/mohamed-belkamel-a65364183
