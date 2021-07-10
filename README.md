@@ -48,7 +48,8 @@
 ## Things I wanna learn in 2021
 
 - Stripe Payements
-- Hapi.js
+- Migrating from React > Angular
+- ABP framework
 - .NET CORE & C#
 - Laravel
 - Complex Database Paradims
