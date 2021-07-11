@@ -53,6 +53,7 @@
 - .NET CORE & C#
 - Laravel
 - Complex Database Paradims
+- More & More Devops
 
 ### Latest Blog posts
 
