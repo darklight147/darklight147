@@ -52,7 +52,7 @@
 - ABP framework
 - .NET CORE & C#
 - Laravel
-- Complex Database Paradims
+- Complex Database Paradigms
 - More & More Devops
 
 ### Latest Blog posts
