@@ -45,15 +45,14 @@
 - Open-source
 - Write better code and better architectures
 
-## Things I wanna learn in 2021
+## Things I learned in 2021
 
-- Stripe Payements
-- Migrating from React > Angular
-- ABP framework
-- .NET CORE & C#
+- More AWS
+- .NET CORE
 - Laravel
 - Complex Database Paradigms
-- More & More Devops
+- More Devops
+- IAC (Kubernetes & Docker-compose)
 
 ### Latest Blog posts
 
