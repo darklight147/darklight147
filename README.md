@@ -68,6 +68,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darklight147&layout=compact&hide=css&theme=dark)](https://github.com/darklight147/darklight147)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darklight147&theme=dark)](https://git.io/streak-stats)
+
 ## Music Bot
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Game-Linter&repo=Discord-Music-Master&theme=dark)](https://github.com/Game-Linter/Discord-Music-Master)
