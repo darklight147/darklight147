@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mohamed - aka [combinedProgrammer][combinedprogrammer]
 
-## 💻 I'm a Full-stack Javascript/Typescript Developer, Learner, Tutor, Blog Writer, Devops Enthusiast!
+## 💻 I'm a Devops Engineer with a specialty in the Javascript Typescript ecosystem!
 
 - 🖥️ I'm currently working on personal projects!
 - 📖 I'm currently learning about everything (Especially Devops engineering!)
