@@ -19,48 +19,6 @@
 - [<img alt='darklight147 | LinkedIn' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/linkedin.svg' />][linkedin]
 - [<img alt='darklight147 | Discord' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/discord.svg' />][discord]
 
-## 🏫 What i learned in 2019-2020
-
-- Microservices
-- Load Balancing
-- Devops in general
-- Serverless Architecture
-- CI/CD (gitlab/github actions/ travis CI)
-- AWS / GCP
-- Vercel
-- Cloudflare
-- CronJobs
-- Caching with redis
----
-
-- Typescript
-- Docker
-- Kubernetes
-- Nginx
-- Next.js
-- JWT
-- C++
-- Discord.js
-- Web Sockets
-
----
-
-- Being a good Developer
-- Good Communication skills and teamwork
-- Programming best practices
-- Design thinking
-- Open-source
-- Write better code and better architectures
-
-## Things I learned in 2021
-
-- More AWS
-- .NET CORE
-- Laravel
-- Complex Database Paradigms
-- More Devops
-- IAC (Kubernetes & Docker-compose)
-
 ### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
