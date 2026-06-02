@@ -3,6 +3,7 @@
 ## 💻 I'm a Devops Engineer with a specialty in cloudnative JS/TS, as well as Spring ecosystem, took intereset recently in AI Platform engineering and AI & ML scalability and deployments.
 
 
+Check my portfolio out :
 
 ### [Portfolio](https://portfolio.flavio.software/)
 
