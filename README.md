@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mohamed - aka [combinedProgrammer][combinedprogrammer]
 
-## 💻 I'm a Devops Engineer with a specialty in cloudnative JS/TS, as well as Spring ecosystem, took intereset recently in AI Platform engineering and AI & ML scalability and deployments.
+## 💻 I'm a Devops Engineer CKA/CKAD certified, with a specialty in cloudnative JS/TS, as well as Spring ecosystem, took interest recently in AI Platform engineering and AI & ML scalability and deployments.
 
 
 Check my portfolio out :
